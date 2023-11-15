@@ -1,0 +1,27 @@
+Microsoft (R) COFF/PE Dumper Version 14.37.32824.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file AVX2Process.dll
+
+File Type: DLL
+
+  Section contains the following exports for AVX2Process.dll
+
+    00000000 characteristics
+    654C9A94 time date stamp Thu Nov  9 09:38:44 2023
+        1.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00001080 fnProcessA
+          2    1 00001000 fnProcessU
+
+  Summary
+
+        1000 .data
+        1000 .edata
+        1000 .text
